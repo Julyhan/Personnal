@@ -1,0 +1,9 @@
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\bin\Debug\TranslateTool.exe.config
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\bin\Debug\TranslateTool.exe
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\bin\Debug\TranslateTool.pdb
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Debug\TranslateTool.csprojResolveAssemblyReference.cache
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Debug\TranslateTool.Form1.resources
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Debug\TranslateTool.Properties.Resources.resources
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Debug\TranslateTool.csproj.GenerateResource.Cache
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Debug\TranslateTool.exe
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Debug\TranslateTool.pdb

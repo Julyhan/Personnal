@@ -1,0 +1,8 @@
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\bin\Release\TranslateTool.exe.config
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\bin\Release\TranslateTool.exe
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\bin\Release\TranslateTool.pdb
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Release\TranslateTool.Form1.resources
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Release\TranslateTool.Properties.Resources.resources
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Release\TranslateTool.csproj.GenerateResource.Cache
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Release\TranslateTool.exe
+H:\ResearchCenter\IARPros\TranslateTool\TranslateTool\obj\Release\TranslateTool.pdb
